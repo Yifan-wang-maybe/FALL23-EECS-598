@@ -1,0 +1,1 @@
+python3 train.py --name Test1 --n-gpu-per-node 1 --corrupt mixture --dataset-dir Sample_Dataset --dataroot dataset/NLST/image --dataroot_demo dataset/NLST/demo --batch-size 2 --microbatch 1 --beta-max 1 --log-dir First_test --image-size 64
